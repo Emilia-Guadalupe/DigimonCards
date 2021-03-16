@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+## Digimon Cards
+
+A very simple proyect that I made just to practice API calls. 
+
+I used this Digimon API: https://digimon-api.vercel.app/api/digimon
+
+You don't need any special dependencies, just 'npm install'. 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
