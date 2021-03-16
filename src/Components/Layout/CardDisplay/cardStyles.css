@@ -1,0 +1,36 @@
+.digimonContent {
+    justify-content: center;
+    margin: 2rem auto;
+    padding: 2%;
+    border: 1px solid rgb(53, 76, 94);
+    border-radius: 5%;
+    box-shadow: 5px 10px 18px #888888
+}
+
+.digimonContent:hover {
+    border: 3px solid rgb(53, 76, 94);
+}
+
+#digimonName {
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+.textDigimon {
+    text-align: center;
+}
+
+.digimonPhoto {
+    height: 7rem;
+    margin: auto;
+    justify-content: center;
+    padding: 2%;
+}
+
+#digimonLevel {
+    font-family: 'Roboto', sans-serif;
+}
+
+#digimonLevelTwo {
+    font-family: 'Roboto', sans-serif;
+}
+
